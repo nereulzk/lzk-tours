@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18116" appversion="6.1.15">
+  <panorama id="node1" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Portaria_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="0.24" pan="1.61"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node1" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Acesso Portaria" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="1.9" url="{node11}" pan="-344.99" title="Rua Interna"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Rua_Interna_Acessos_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="-0.7" pan="-1.03"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node11" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Rua Interna" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="0.55" url="{node1}" pan="-73.5" title="Acesso Portaria"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="1.71" url="{node8}" pan="-300.22" title="Pergolados"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Pergolados_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="-4.83" pan="-2.61"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node8" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Pergolados" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="0.62" url="{node9}" pan="-16.18" title="Pet Place"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-1.41" url="{node11}" pan="-310.64" title="Rua Interna"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Pet_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node9" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Pet Place" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="0.9" url="{node10}" pan="-308.61" title="Piscina"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-2.68" url="{node8}" pan="-151.04" title="Pergolados"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Piscina_Quiosques_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="3.77" pan="-174.93"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node10" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Piscina" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="2.7" url="{node9}" pan="-161.11" title="Pet Place"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-0.45" url="{node7}" pan="-92.5" title="Salão de Festas"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Festas_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="-1.8" pan="-174.99"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node7" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Salão de Festas" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="1.93" url="{node10}" pan="-104.77" title="Piscina"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-0.26" url="{node5}" pan="-149.55" title="Academia"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Academia_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="-3.03" pan="178.47"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node5" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Academia" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="1.1" url="{node7}" pan="-43.33" title="Salão de Festas"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-2.28" url="{node4}" pan="-177.15" title="Clube Externo"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Beach_Tennis_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node4" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Clube Externo" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="-2.61" url="{node5}" pan="-326.92" title="Academia"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="-1.07" url="{node6}" pan="-129.96" title="Beach Tennis"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_Beach_Tennis-2_001/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80" projection="4" tilt="0.81" pan="39"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node6" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Beach Tennis" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="-0.53" url="{node4}" pan="-325.41" title="Clube Externo"/>
+      <hotspot id="Point02" skinid="ht_node" description="" target="" tilt="11.89" url="{node2}" pan="-357.96" title="Living Ponta - 101"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_101_Living_Ponta/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1375" leveltilesize="510" height="1375" levelbias="0.400">
+      <level preload="0" width="1375" predecode="0" height="1375"/>
+      <level preload="0" width="687" predecode="0" height="687"/>
+      <level preload="1" width="343" predecode="1" height="343"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="90" projection="4" tilt="0" pan="-88.87"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node2" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Living Ponta - 101" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="-3.44" url="{node3}" pan="-170.17" title="Living Meio - 103"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input overlap="1" leveltileurl="tiles/TOUR_103_Living_Meio/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" stereo="1" fliplr="0" levelbiashidpi="0.400" levelingroll="0" width="1500" leveltilesize="510" height="1500" levelbias="0.400">
+      <level preload="0" width="1500" predecode="0" height="1500"/>
+      <level preload="0" width="750" predecode="0" height="750"/>
+      <level preload="1" width="375" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="90" projection="4" tilt="-1.14" pan="-177.66"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata tags="Imagens" description="Baliza - Manchester" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="node3" customnodeid="" source="" latitude="" heading="0" author="LZK CG" info="" title="Living Meio - 103" copyright=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" borderalpha="1" height="20" textalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot id="Point01" skinid="ht_node" description="" target="" tilt="-0.54" url="{node1}" pan="-215.72" title="Acesso Portaria"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" softedge="0" type="cut" blendtime="0" zoomout="0" blendcolor="0x000000" zoomspeed="2"/>
+    <autorotate speed="0.100" enabled="1" returntohorizon="0.000" noderandom="1" startloaded="0" delay="5.00" useanimation="0" nodedelay="0.00" nodefilter=""/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="1" rubberband="0" simulatemass="1" invertcontrol="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="1" contextfullscreen="1" lockedwheel="0" hideabout="1" lockedkeyboard="0" dblclickfullscreen="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" datetime="2018:04:06 14:29:34" comment="" longitude="" nodeid="" customnodeid="" source="" latitude="" heading="0" author="" info="" title="" copyright=""/>
+  </masternode>
+</tour>
